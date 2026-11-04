@@ -12,3 +12,6 @@
 | 5025251010 | Agile Octa Agrakha Handrian |
 
 </div>
+
+**Materials (Temporary):** https://drive.google.com/file/d/1eNMLY2Sot70JYyU2aZLKMGEOXBAk2imJ/view?usp=drive_link
+**List (Temporary)**: https://docs.google.com/document/d/16ZUMuiNJnOKGETftLezhIo8iLtwXuwdyl2EeCZeNupY/edit?usp=drive_link
