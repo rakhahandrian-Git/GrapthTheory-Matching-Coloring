@@ -1,6 +1,4 @@
-# GrapthTheory-Matching-Coloring
-
-## Group 1 Matching & Coloring (Assignment 10)
+# Group 1 Matching & Coloring (Assignment 10)
 
 <div align=center>
 
