@@ -107,7 +107,7 @@ cd Hungarian-Matching
 python hungarian.py
 ```
 
-The program will ask for the number of employees and tasks, followed by the assignment cost matrix.
+The program will ask for the matrix size (number of employees and tasks), followed by the assignment cost matrix.
 
 ### 2. Run with Custom Input
 
