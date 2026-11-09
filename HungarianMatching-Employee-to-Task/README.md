@@ -253,17 +253,11 @@ The automated test suite contains nine test cases:
 
 ## AI Tools Usage Disclosure
 
-ChatGPT was used as an AI-assisted learning and development tool during the implementation of this project.
+In compliance with the assignment rules, AI assistance from ChatGPT and Gemini was utilized during the development of this implementation:
 
-- **Assistance Provided:**
-  - Understanding the Hungarian Algorithm and its six main steps.
-  - Structuring the Python implementation.
-  - Explaining row reduction, column reduction, zero covering, and matrix adjustment.
-  - Developing test cases for different matrix sizes.
-  - Reviewing the implementation and preparing project documentation.
-
-- **Implementation:** The algorithm is implemented in Python without relying on external libraries that directly solve the assignment problem.
-
-- **Verification:** The implementation is evaluated using the automated test suite in `test_hungarian.py`.
+- **Assistance Provided:** Understanding the Hungarian Algorithm, receiving guidance on Python implementation, debugging, and preparing automated test cases.
+- **Prompt History:**
+  1. How does the Hungarian Algorithm work, and how can it be implemented in Python?
+  2. How can I implement a dynamic employee-to-task assignment problem using the Hungarian Algorithm in Python?
 
 
