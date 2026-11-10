@@ -1,0 +1,16 @@
+# Sample 1
+{
+    'Math': ['Physics', 'Chemistry'],
+    'Physics': ['Math', 'Chemistry', 'Biology'],
+    'Chemistry': ['Math', 'Physics'],
+    'Biology': ['Physics']
+}
+
+# Sample 2
+{
+    'Algorithms': ['Databases', 'Operating Systems', 'AI'],
+    'Databases': ['Algorithms', 'Networks'],
+    'Operating Systems': ['Algorithms', 'Networks', 'AI'],
+    'Networks': ['Databases', 'Operating Systems'],
+    'AI': ['Algorithms', 'Operating Systems']
+}
