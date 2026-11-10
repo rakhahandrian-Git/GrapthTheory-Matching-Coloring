@@ -1,4 +1,6 @@
-# Group 1 Matching & Coloring (Assignment 10)
+# Informatics ITS Graph Theory IUP
+
+## Group 1: Coloring and Matching Assignment
 
 <div align=center>
 
