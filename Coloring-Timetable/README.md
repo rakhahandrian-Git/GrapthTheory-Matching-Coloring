@@ -18,7 +18,7 @@ How it works:
 - **Python**: Python 3.8+ (tested on Python 3.12).
 - **Dependencies**: **None** (Pure Python standard library modules are enough)
 
---
+---
 
 ## Sample Input Output
 
